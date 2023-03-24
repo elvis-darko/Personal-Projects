@@ -7,7 +7,7 @@
 ## TABLE OF CONTENTS
 The Table showcases summary details of projects.
 
-|   S/N   | PROJECT SUBJECT | PROJECT NAME  |   TOOLS   |   CATEGORY    |
-|---------|-----------------|---------------|-----------|---------------|
-|         |                 |               |           |               |
+|   S/N   | PROJECT CATEGORY | PROJECT NAME  |   TOOLS   |
+|---------|------------------|---------------|-----------|
+|         |                  |               |           |
 
