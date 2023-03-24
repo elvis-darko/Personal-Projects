@@ -8,4 +8,6 @@
 The Table showcases summary details of projects.
 
 |   S/N   | PROJECT SUBJECT | PROJECT NAME  |   TOOLS   |   CATEGORY    |
+|---------|-----------------|---------------|-----------|---------------|
+|         |                 |               |           |               |
 
