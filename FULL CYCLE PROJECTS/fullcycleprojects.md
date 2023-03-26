@@ -1,5 +1,5 @@
 # CATEGORY DESCRIPTION
-In this this section, I use the Data Sciece full cycle to undertake the projects. Particularly, I employ the CRISPM-DM framework as a guide.
+In this this section, I use the Data Science full cycle to undertake the projects. Particularly, I employ the CRISPM-DM framework as a guide.
 
 
 ## THE CRISP-DM FRAMEWORK
@@ -20,7 +20,9 @@ The only tool used in these projects is Python.
 
 
 ## PROJECT CATEGORY
-I group these projects into Data Analysis projects and Machine Learning.
+I group these projects into ;
+- Data Analysis projects  
+- Machine Learning.
 
 
 ## TABLE OF CONTENTS
