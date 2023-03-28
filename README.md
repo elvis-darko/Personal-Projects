@@ -19,7 +19,7 @@ In these projects, I tell stories from the given datasets using visualizations. 
 
 In the near future, I will be using Tableau for other visualizations.
 
-Then, I provide summary notes with insights using markdown cells ora readme files.
+Then, I provide summary notes with insights using markdown cells or readme files.
 
 
 ## FULL CYCLE PROJECTS
