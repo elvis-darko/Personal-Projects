@@ -15,7 +15,8 @@ In these project, I ask questions from  given datasets. These datasets will be u
 I analyze these datasets and answer the questions to gain valuable insights that can be used for strategic decision making.
 
 ## DATA VISUALIZATIONS
-In these projects, I tell stories from the given datasets using visualizatiions. Particularly, I adopt Microsoft Power BI, Matplotlib and Seaborn for these visualizations.
+In these projects, I tell stories from the given datasets using visualizations. Particularly, I adopt Microsoft Power BI, Matplotlib and Seaborn for these visualizations. 
+In the near future, I will be using Tableau for other visualizations.
 
 Then, I provide summary notes with insightd using markdown.
 
