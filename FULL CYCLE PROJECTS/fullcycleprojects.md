@@ -5,7 +5,7 @@ In this this section, I use the Data Science full cycle to undertake the project
 ## THE CRISP-DM FRAMEWORK
 The CRISP-DM Framework is an accepted and approved framework that serves as a guide for Data Science projects. It entails the Data Science full life cycle.
 
-CRISP-DM is an abbreviation that stands for Cross_Industry Standard Pracrice for Data Mining
+CRISP-DM is an abbreviation that stands for Cross-Industry Standard Pracrice for Data Mining
 
 The Stages in the framework are;
 1. Business Understanding
@@ -21,8 +21,8 @@ The only tool used in these projects is Python.
 
 ## PROJECT CATEGORY
 I group these projects into ;
-- Data Analysis projects  
-- Machine Learning.
+- Data Analysis Projects  
+- Machine Learning Projects.
 
 
 ## TABLE OF CONTENTS
