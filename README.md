@@ -1,5 +1,5 @@
 # REPOSITORY DESCRIPTION
- This repository contains sample projects that I undertook during my spare and practice times.
+ This repository sample projects that I undertook during my spare and practice times.
  In this Project Session, I work on projects in Excel, Power BI, SQL and Python.
 
 I categorise projects into Data Cleaning, Analytics, Data Visualizations and Full Cycle projects.
@@ -14,7 +14,7 @@ In these projects, I ask questions from  given datasets. These datasets will be 
 
 I analyze these datasets and answer the questions to gain valuable insights that can be used for strategic decision making.
 
-## DATA VISUALIZATIONS
+## DATA VISUALIZATION
 In these projects, I tell stories from the given datasets using visualizations. Particularly, I adopt Microsoft Power BI, Matplotlib and Seaborn for these visualizations. 
 
 In the near future, I will be using Tableau for other visualizations.
@@ -31,7 +31,11 @@ I sub-categorize these projects into Data Analysis and Machine Learning projects
 ## TABLE OF CONTENTS
 The Table showcases summary details of projects.
 
-|   S/N   | PROJECT CATEGORY | PROJECT NAME  |   TOOLS   |
-|---------|------------------|---------------|-----------|
-|         |                  |               |           |
+|   S/N   | PROJECT CATEGORY | PROJECT NAME |PROJECT DESCRIPTION |STATUS |   TOOLS   |
+|:-----:|:-------------|:---------|:------|:--------|:---|
+|    1    |Full Cycle Project<br />(Data Analysis) |Sales Data Analysis|    | Yet-To-Start   |Python|
+|    2    |Full Cycle Project<br />(Machine Learning)| Employee Churn |     | Yet-To-Start   |Python<br />Power BI|
+|    3    |Data Cleaning  | E-Bay Car Sales |         | Yet-To-Start | Python |
+|    4    |Data Visualization | LinkedIn Data Analysis |       | Yet-To-Start| Power BI |
+|    5    |Data Visualization | Fiancial Budget Analysis |    | Yet-To-Start| Python<br />Power BI |
 
