@@ -19,6 +19,6 @@ The tools for the analysis are;
 ## TABLE OF CONTENTS
 The table below shows the different projects undertaken and summary details of each project.
 
-|   S/N   | PROJECT CATEGORY | PROJECT NAME  |   TOOLS   |
-|---------|------------------|---------------|-----------|
-|         |                  |               |           |
+|   S/N   | PROJECT NAME | PROJECT  DESCRIPTION |STATUS   |TOOLS   |
+|---------|------------------|---------------|-----|------|
+|         |                  |               |       |    |
