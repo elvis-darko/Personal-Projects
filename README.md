@@ -38,4 +38,5 @@ The Table showcases summary details of projects.
 |    3    |Data Cleaning  | E-Bay Car Sales |         | Yet-To-Start | Python |
 |    4    |Data Visualization | LinkedIn Data Analysis |       | Yet-To-Start| Power BI |
 |    5    |Data Visualization | Fiancial Budget Analysis |    | Yet-To-Start| Python<br />Power BI |
+|    6    |Analytics       | Store Retail Analysis   |     | Yet-To-Start   |Excel|
 
