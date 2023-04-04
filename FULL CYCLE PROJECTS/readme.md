@@ -28,6 +28,6 @@ I group these projects into ;
 ## TABLE OF CONTENTS
 The table below shows the different projects undertaken and summary details of each project.
 
-|   S/N   | PROJECT CATEGORY | PROJECT NAME  |   TOOLS   |
-|---------|------------------|---------------|-----------|
-|         |                  |               |           |
+|   S/N   | PROJECT CATEGORY | PROJECT NAME  | PROJECT DESCRIPTION| STATUS |TOOLS   |
+|---------|------------------|---------------|-----|---|---|
+|         |                  |               |      |   |  |
