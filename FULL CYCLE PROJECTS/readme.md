@@ -30,4 +30,4 @@ The table below shows the different projects undertaken and summary details of e
 
 |   S/N   | PROJECT CATEGORY | PROJECT NAME  | PROJECT DESCRIPTION| STATUS |TOOLS   |
 |---------|------------------|---------------|-----|---|---|
-|         |                  |               |      |   |  |
+|    1     |Data Analysis    | Sales Data Analysis |           |Stared   |Jupyter Notebook  |
