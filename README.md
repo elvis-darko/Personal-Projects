@@ -33,7 +33,7 @@ The Table showcases summary details of projects.
 
 |   S/N   | PROJECT CATEGORY | PROJECT NAME |PROJECT DESCRIPTION |STATUS |   TOOLS   |
 |:-----:|:-------------|:---------|:------|:--------|:---|
-|    1    |Full Cycle Project<br />(Data Analysis) |Sales Data Analysis|    | Yet-To-Start   |Python|
+|    1    |Full Cycle Project<br />(Data Analysis) |[Product Sales Data Analysis](https://github.com/elvis-darko/Personal-Projects/tree/main/FULL%20CYCLE%20PROJECTS/PRODUCT_SALES_DATA)|    | Yet-To-Start   |Python|
 |    2    |Full Cycle Project<br />(Machine Learning)| Employee Churn |     | Yet-To-Start   |Python<br />Power BI|
 |    3    |Data Cleaning  | E-Bay Car Sales |         | Yet-To-Start | Python |
 |    4    |Data Visualization | LinkedIn Data Analysis |       | Yet-To-Start| Power BI |
