@@ -6,7 +6,7 @@ Sales analytics is the practice of generating insights from sales data, trends, 
 
 In this analytics project, I explore the data to evaluate the performance of the sales team against specified goals. The project provides insights about the top performing and underperforming products/services, the problems in selling and market opportunities, sales forecasting, and sales activities that generate revenue.
 
-The datasets for the project are available in the folder `sales_data`. They include monthly sales data of all products.
+The datasets for the project are available in the folder `sales_data`. They include monthly sales data of all products in the year 2019.
 
 ### DETAILS OF DATA
 - `Order ID` - An Order ID is the number system that Amazon uses exclusively to keep track of orders. Each order receives its own Order ID that will not be duplicated. This number can be useful to the seller when attempting to find out certain details about an order such as shipment date or status.
@@ -17,7 +17,7 @@ The datasets for the project are available in the folder `sales_data`. They incl
 
 - `Price Each` - The price of each products.
 
-- `Order Date` - This is the date the customer is requesting the order be shipped.
+- `Order Date` - This is the date the customer is requesting the order be shipped Transactions took place i 2019.
 
 - `Purchase Address` - The purchase order is prepared by the buyer, often through a purchasing department. The purchase order, or PO, usually includes a PO number, which is useful in matching shipments with purchases; a shipping date; billing address; shipping address; and the request items, quantities and price.
 
