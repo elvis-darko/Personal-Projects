@@ -22,5 +22,8 @@ The table below shows the different projects undertaken and summary details of e
 
 |   S/N   | PROJECT NAME | PROJECT  DESCRIPTION | STATUS  |TOOLS   |
 |---------|------------------|---------------|-----|------|
-|    1    | Human Resource  Analysis |               |Not Started| Power BI |
-|    2    | Coca Cola Sales Analysis |               |Not Stared | Power BI |
+|    1    | Retail Sales  Analysis |               |Started Power BI |
+|    2    | Human Resource Analysis |               |Not Stared | Power BI |
+|    3    | Finacial Budget Analysis |               |Not Stared | Python |
+|    4    | Sales Data Analysis |               |Not Stared | Excel |
+|    5    |  |               |Not Stared |  |
