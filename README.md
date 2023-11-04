@@ -33,11 +33,12 @@ The Table showcases summary details of projects.
 
 |   S/N   | PROJECT CATEGORY | PROJECT NAME |PROJECT DESCRIPTION |STATUS |   TOOLS   |
 |:-----:|:-------------|:---------|:------|:--------|:---|
-|    1    |Full Cycle Project<br />(Data Analysis) |[Product Sales Analysis](https://github.com/elvis-darko/Personal-Projects/tree/main/FULL%20CYCLE%20PROJECTS/PRODUCT_SALES_ANALYSIS)|    | Started   |Python|
-|    2    |Full Cycle Project<br />(Machine Learning)| Employee Churn |     | Yet-To-Start   |Python<br />Power BI|
-|    3    |Data Visualization | Human Resource Analysis |      | Yet-To-Start| Power BI |
-|    4    |Data Visualization | [Retail Sales Data Analysis](https://github.com/elvis-darko/Retail-Store-Analysis-using-Power-BI)    |    In this project, I analyze sales records of data from a retail chain stores, Groupe Darko Retails.  | completed| Power BI |
-|    5    |Data Visualization | Fiancial Budget Analysis|      | Yet-To-Start| Python<br />Power BI |
-|    6    |Analytics          | Store Retail Analysis   |      | Yet-To-Start|Excel|
+|    PP1    |Full Cycle Project<br />(Data Analysis) |[Product Sales Analysis](https://github.com/elvis-darko/Personal-Projects/tree/main/FULL%20CYCLE%20PROJECTS/PRODUCT_SALES_ANALYSIS)|    | Started   |Python|
+|    PP2    |Full Cycle Project<br />(Machine Learning)| Employee Churn |     | Yet-To-Start   |Python<br />Power BI|
+|    PP3    |Data Visualization | Human Resource Analysis |      | Yet-To-Start| Power BI |
+|    PP4    |Data Visualization | [Retail Sales Data Analysis](https://github.com/elvis-darko/Retail-Store-Analysis-using-Power-BI)    |    In this project, I analyze sales records of data from a retail chain stores, Groupe Darko Retails.  | completed| Power BI |
+|    PP5    |Data Visualization | Fiancial Budget Analysis|      | Yet-To-Start| Python<br />Power BI |
+|    PP6    |Analytics          | Store Retail Analysis   |      | Yet-To-Start|Excel|
+|    PP7    |ML Deployment          | [Auto ML App](https://github.com/elvis-darko/AUTO-MACHINE-LEARNING-WEB-APP-USING-STREAMLIT-AND-PYCARET)  | In this project, I develop a streamlit app that automates exploratory data analysis, trains machine learning models with a user's dataset and downloads the best performing machine learning model  | Completed|Python <br /> Streamlit<br />Pycaret|
 
 
